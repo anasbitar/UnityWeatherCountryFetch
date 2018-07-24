@@ -556,7 +556,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 961573652}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6f7651b9d01bade41b8dc3bedf36655a, type: 3}
+  m_Script: {fileID: 11500000, guid: d7cf8c9850f00fa4abde407626b7eb16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   countryName: {fileID: 8614439}
@@ -1054,11 +1054,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1360666171}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 98f1e846bf236e94888a503836fc0e2e, type: 3}
+  m_Script: {fileID: 11500000, guid: 2062a94a4cee00346a1f2df0a83d9a4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   weatherUnityType: 0
-  cityName: Tokyo
+  cityName: Dubai
   API_KEY: 0a1162ab04a1c8d593f1e39a9c411ea6
 --- !u!4 &1360666173
 Transform:
