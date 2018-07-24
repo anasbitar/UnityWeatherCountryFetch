@@ -11,7 +11,6 @@ and add the country you want to fetch data from.
 
 For example : City Name = London 
 
-Click Play, this is what you should get 
-
+Click Play
 
 
