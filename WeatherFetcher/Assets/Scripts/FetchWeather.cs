@@ -24,7 +24,7 @@ public class FetchWeather : MonoBehaviour {
     public UnitType weatherUnityType;
     public string cityName;
     [SerializeField]
-    private string API_KEY = "0a1162ab04a1c8d593f1e39a9c411ea6";
+    private string API_KEY = "**********************";
     
     // Use this for initialization
     void Start () {
